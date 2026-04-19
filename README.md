@@ -45,7 +45,7 @@ This project aims to provide a **data-driven, low-risk investment portfolio stra
 3. All charts and Excel files will be generated automatically
 
 ## 8. Demo Video
-- Demo Video Link: To be added
+- Demo Video Link:https://github.com/liuyunzhuoxjtlu/ACC102_track2_2470834_Yunzhuo.Liu/blob/main/ACC102%20Video.mp4
 
 ## 9. Limitations & Next Steps
 - Limitations: Only annual data is used; macroeconomic and policy factors are not included.
